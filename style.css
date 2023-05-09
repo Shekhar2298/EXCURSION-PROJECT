@@ -1,0 +1,52 @@
+.h1
+{
+    text-align: center;
+    font-size:50px;
+    color: aliceblue;
+   width: 100%;
+   margin-top: 99px
+}
+.d2{
+    text-align: center;
+    color: aquamarine;
+    margin-left: 620px;
+    width: 100%;
+}
+.v1{
+    margin-left: 600px;
+
+}
+.img1{
+    margin-left: 340px;
+    margin-top: 10px;
+}
+.img2{
+margin-top: 50px;
+margin-left: 750px;
+}
+.d1{
+    text-align: center;
+    color: aquamarine;
+    margin-left: 620px;
+}
+.s1{
+    text-align: center;
+  
+    margin-left: 50px;
+}
+.d3{
+    color: aliceblue;
+    font-size: 40px;
+    margin-left: 40px;
+    text-align: center;
+}
+.r1{
+color: gray;
+float: right;
+margin-left: 30px;
+}
+.s2{
+color: gray;
+text-align: center;
+margin-left: 50px;
+}
